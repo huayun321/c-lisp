@@ -15,3 +15,5 @@ int main(int argc, char** argv) {
     
     return 0;
 }
+
+//cc -std=c99 -Wall repl.c -o repl  
